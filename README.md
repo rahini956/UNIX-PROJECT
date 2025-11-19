@@ -44,9 +44,7 @@ How to Run the Script
 chmod +x encrypt.sh
 
 3. Run the script
-./encrypt.sh
-
-Sample Output Screens (Replace with your own screenshots)
+./encrypt.sh 
 
 Main Menu:
 
